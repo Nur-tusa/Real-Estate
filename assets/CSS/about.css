@@ -118,3 +118,43 @@ button.rounded{
     padding-bottom: 20px;
     color: #474880;;
 }
+
+#joinUs{
+    position: relative;
+}
+
+.joinUs-container{
+    position: absolute;
+    color: white;
+    z-index: 2;
+    left: 35%;
+    top: 78px;
+    text-align: center;
+}
+
+.joinUs-container button{
+    margin: 30px;
+}
+
+.fade{
+    position: absolute;
+    z-index: 1;
+    background: rgba(0,0,0,0.4);;
+    height: 603.86px;
+    width: 1275px;
+}
+
+footer{
+    background: #777777;
+    padding: 25px;
+}
+
+
+#small{
+    font-family: "ubuntu", sans-serif;
+    font-size: 0.8rem;
+}
+
+.property{
+    max-width: 365px;
+}
